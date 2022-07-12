@@ -1,3 +1,4 @@
+// Link to description: https://www.codewars.com/kata/526989a41034285187000de4/train/go
 package main
 
 import (
